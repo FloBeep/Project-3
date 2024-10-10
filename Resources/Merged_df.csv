@@ -512,7 +512,7 @@ Rank ,Name,Networth,Age,Country,Source,Industry,Latitude,Longitude
 509,Peter Grogg ,5.3,80,Switzerland,biochemicals,Healthcare ,46.818188,8.227512
 509,Dietmar Hopp & family ,5.3,81,Germany,software,Technology ,51.165691,10.451526
 509,Sumet Jiaravanon ,5.3,87,Thailand,diversified  ,diversified   ,15.870032,100.992541
-509,Nathan Kirsh ,5.3,90,Eswatini (Swaziland),"retail, real estate",Fashion & Retail ,,
+509,Nathan Kirsh ,5.3,90,Eswatini (Swaziland),"retail, real estate",Fashion & Retail ,-26.5225,31.4659
 509,Forrest Li ,5.3,44,Singapore,gaming,Media & Entertainment ,1.352083,103.819836
 509,Rudolf Maag ,5.3,76,Switzerland,medical devices,Healthcare ,46.818188,8.227512
 509,Gary Rollins ,5.3,77,United States,pest control,Service ,37.09024,-95.712891
@@ -2062,7 +2062,7 @@ Rank ,Name,Networth,Age,Country,Source,Industry,Latitude,Longitude
 1929,Thomas von Koch ,1.5,56,Sweden,asset management,Finance & Investments ,60.128161,18.643501
 1929,Junjin Wang ,1.5,53,China,airline,Service ,35.86166,104.195397
 1929,Wang Zelong ,1.5,25,China,chemicals,Metals & Mining ,35.86166,104.195397
-1929,Myron Wentz ,1.5,82,St. Kitts and Nevis,health products,Fashion & Retail ,,
+1929,Myron Wentz ,1.5,82,St. Kitts and Nevis,health products,Fashion & Retail ,17.3578,-62.783
 1929,Kaiting Wu ,1.5,52,Hong Kong,electronics,Telecom ,22.396428,114.109497
 1929,Xiong Wu ,1.5,46,China,software,Technology ,35.86166,104.195397
 1929,Xu Wanmao ,1.5,77,China,education,Service ,35.86166,104.195397
