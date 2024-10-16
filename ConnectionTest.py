@@ -1,9 +1,9 @@
 import psycopg2
 
 # Set up database connection parameters
-dbname = "Billioniares_DB"
-user = "PostgreSQL"
-password = "postgres"
+dbname = "Billionaires_DB"
+user = "postgres"
+password = "123"
 host = "localhost"  # or the IP address of your database server
 port = "5432"       # default PostgreSQL port
 
@@ -32,3 +32,5 @@ try:
 
 except Exception as e:
     print("An error occurred:", e)
+
+    
