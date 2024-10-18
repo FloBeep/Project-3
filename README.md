@@ -22,16 +22,16 @@ File format: CSV (Comma Separated Values).<br>
 
 **Project Structure**
 
-├── data/                       # Folder containing the dataset
-│   └── forbes_billionaires_2022.csv
-├── notebooks/                  # Jupyter Notebooks for data analysis
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_visualization.ipynb
-├── scripts/                    # Python scripts used for data manipulation and analysis
-│          │   └── Main.py                 # Script to clean the raw dataset andd perform data analysis
-├── README.md                   # Project overview and setup instructions
-└── requirements.txt            # List of dependencies
+├── data/                       # Folder containing the dataset<br>
+│   └── forbes_billionaires_2022.csv<br>
+├── notebooks/                  # Jupyter Notebooks for data analysis<br>
+│   ├── 01_data_exploration.ipynb<br>
+│   ├── 02_data_cleaning.ipynb<br>
+│   └── 03_visualization.ipynb<br>
+├── scripts/                    # Python scripts used for data manipulation and analysis<br>
+│          │   └── Main.py                 # Script to clean the raw dataset andd perform data analysis<br>
+├── README.md                   # Project overview and setup instructions<br>
+└── requirements.txt            # List of dependencies<br>
 
 **Project Goals**
 
