@@ -22,7 +22,7 @@ File format: CSV (Comma Separated Values).<br>
 
 **Project Structure**
 
-<img>https://ibb.co/ykCDC4b</img>
+<img https://ibb.co/ykCDC4b>
 
 **Project Goals**
 
