@@ -47,3 +47,11 @@ Country Representation: The United States, China, and India host the highest num
 Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.<br>
 Self-Made vs. Inherited: A significant percentage of billionaires on the list have self-made fortunes, particularly in tech and retail industries.<br>
 
+**Team Members**
+
+Ellen Nelson<br>
+Florian Caffier​<br>
+Deji Alabi<br>
+Nitin Arora​<br>
+
+
