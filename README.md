@@ -8,17 +8,17 @@ The dataset used in this project is publicly available data from Forbes' 2022 Bi
 **Dataset Features**
 The dataset contains the following key columns:
 
-Rank: The rank of the individual in the Forbes 2022 Billionaires list.
-Name: The full name of the billionaire.
-Net Worth: The net worth of the billionaire in USD (as of the 2022 list).
-Country: The country of citizenship.
-Source of Wealth: The primary source of the billionaire's wealth (e.g., company, industry).
-Industry: The industry or sector in which the billionaire primarily operates.
-Age: The age of the billionaire.
-Longitude and Latitude: Geo locations where the billionaire resides.
-Dataset Structure
-Total records: Approximately 2,600 billionaires.
-File format: CSV (Comma Separated Values).
+Rank: The rank of the individual in the Forbes 2022 Billionaires list.\n
+Name: The full name of the billionaire.\n
+Net Worth: The net worth of the billionaire in USD (as of the 2022 list).\n
+Country: The country of citizenship.\n
+Source of Wealth: The primary source of the billionaire's wealth (e.g., company, industry).\n
+Industry: The industry or sector in which the billionaire primarily operates.\n
+Age: The age of the billionaire.\n
+Longitude and Latitude: Geo locations where the billionaire resides.\n
+Dataset Structure\n
+Total records: Approximately 2,600 billionaires.\n
+File format: CSV (Comma Separated Values).\n
 
 **Project Structure**
 
