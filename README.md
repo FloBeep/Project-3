@@ -16,6 +16,7 @@ Source of Wealth: The primary source of the billionaire's wealth (e.g., company,
 Industry: The industry or sector in which the billionaire primarily operates.<br>
 Age: The age of the billionaire.<br>
 Longitude and Latitude: Geo locations where the billionaire resides.<br>
+<br>
 Dataset Structure<br>
 Total records: Approximately 2,600 billionaires.<br>
 File format: CSV (Comma Separated Values).<br>
