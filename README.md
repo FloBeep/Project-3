@@ -1,11 +1,15 @@
 # Project-3
-Forbes 2022 Billionaries Analysis
+
+# Forbes 2022 Billionaries Analysis
+
 This project focuses on analyzing the Forbes 2022 Billionaires dataset. The goal is to uncover insights about the world’s wealthiest individuals, explore trends in wealth distribution, analyze demographics, industries, and geographical patterns, and create visualizations that provide an intuitive understanding of the data.
 
 **Source**
+
 The dataset used in this project is publicly available data from Forbes' 2022 Billionaires List, which includes information on billionaires, their net worth, country of citizenship, industry, and other relevant details.
 
 **Dataset Features**
+
 The dataset contains the following key columns:
 
 Rank: The rank of the individual in the Forbes 2022 Billionaires list.
@@ -47,10 +51,9 @@ Box plots (e.g., distribution of net worth by industry).
 Word cloud (e.g., Source of wealth).
 Heatmaps (e.g., country-wise billionaire density).
 
-
 **Key Insights (Preliminary Results)**
+
 Wealth Distribution: The wealthiest individuals are concentrated in a few industries, with technology and finance leading the pack.
 Country Representation: The United States, China, and India host the highest number of billionaires, while emerging economies show rapid growth.
 Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.
 Self-Made vs. Inherited: A significant percentage of billionaires on the list have self-made fortunes, particularly in tech and retail industries.
-
