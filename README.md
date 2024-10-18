@@ -41,6 +41,7 @@ Heatmaps (e.g., country-wise billionaire density).<br>
 
 
 **Key Insights (Preliminary Results)**
+
 Wealth Distribution: The wealthiest individuals are concentrated in a few industries, with technology and finance leading the pack.<br>
 Country Representation: The United States, China, and India host the highest number of billionaires, while emerging economies show rapid growth.<br>
 Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.<br>
