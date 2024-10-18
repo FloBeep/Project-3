@@ -22,35 +22,26 @@ File format: CSV (Comma Separated Values).<br>
 
 **Project Structure**
 
-├── data/                       # Folder containing the dataset<br>
-│   └── forbes_billionaires_2022.csv<br>
-├── notebooks/                  # Jupyter Notebooks for data analysis<br>
-│   ├── 01_data_exploration.ipynb<br>
-│   ├── 02_data_cleaning.ipynb<br>
-│   └── 03_visualization.ipynb<br>
-├── scripts/                    # Python scripts used for data manipulation and analysis<br>
-│          │   └── Main.py                 # Script to clean the raw dataset andd perform data analysis<br>
-├── README.md                   # Project overview and setup instructions<br>
-└── requirements.txt            # List of dependencies<br>
+<img>https://ibb.co/ykCDC4b</img>
 
 **Project Goals**
 
-Data Cleaning: Handle missing or inconsistent data, format data types, and prepare the dataset for analysis.
-Exploratory Data Analysis (EDA): Perform initial exploration of the dataset, including basic statistics and distribution analysis.
-Industry Analysis: Analyze the representation of different industries in the billionaire list.
-Country Analysis: Explore how billionaires are distributed across different countries and regions.
-Gender and Age Analysis: Investigate the age distribution, gender balance, and how these factors relate to net worth.
-Net Worth Distribution: Study the distribution of net worth across all billionaires and identify any wealth concentration trends.
-Visualizations: Create visual representations of key insights, including:
-Bar chart and histograms (e.g., country-wise billionaire count, industry representation).
-Box plots (e.g., distribution of net worth by industry).
-Word cloud (e.g., Source of wealth).
-Heatmaps (e.g., country-wise billionaire density).
+Data Cleaning: Handle missing or inconsistent data, format data types, and prepare the dataset for analysis.<br>
+Exploratory Data Analysis (EDA): Perform initial exploration of the dataset, including basic statistics and distribution analysis.<br>
+Industry Analysis: Analyze the representation of different industries in the billionaire list.<br>
+Country Analysis: Explore how billionaires are distributed across different countries and regions.<br>
+Gender and Age Analysis: Investigate the age distribution, gender balance, and how these factors relate to net worth.<br>
+Net Worth Distribution: Study the distribution of net worth across all billionaires and identify any wealth concentration trends.<br>
+Visualizations: Create visual representations of key insights, including:<br>
+Bar chart and histograms (e.g., country-wise billionaire count, industry representation).<br>
+Box plots (e.g., distribution of net worth by industry).<br>
+Word cloud (e.g., Source of wealth).<br>
+Heatmaps (e.g., country-wise billionaire density).<br>
 
 
 **Key Insights (Preliminary Results)**
-Wealth Distribution: The wealthiest individuals are concentrated in a few industries, with technology and finance leading the pack.
-Country Representation: The United States, China, and India host the highest number of billionaires, while emerging economies show rapid growth.
-Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.
-Self-Made vs. Inherited: A significant percentage of billionaires on the list have self-made fortunes, particularly in tech and retail industries.
+Wealth Distribution: The wealthiest individuals are concentrated in a few industries, with technology and finance leading the pack.<br>
+Country Representation: The United States, China, and India host the highest number of billionaires, while emerging economies show rapid growth.<br>
+Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.<br>
+Self-Made vs. Inherited: A significant percentage of billionaires on the list have self-made fortunes, particularly in tech and retail industries.<br>
 
