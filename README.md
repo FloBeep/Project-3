@@ -49,9 +49,9 @@ Self-Made vs. Inherited: A significant percentage of billionaires on the list ha
 
 **Team Members**
 
-Ellen Nelson<br>
-Florian Caffier​<br>
-Deji Alabi<br>
-Nitin Arora​<br>
-
-
+<ul>
+  <li>Ellen Nelson</li>
+  <li>Florian Caffier</li>
+  <li>Deji Alabi</li>
+  <li>Nitin Arora</li>
+</ul>
