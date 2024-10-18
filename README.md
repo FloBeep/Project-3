@@ -8,7 +8,7 @@ The dataset used in this project is publicly available data from Forbes' 2022 Bi
 **Dataset Features**
 The dataset contains the following key columns:
 
-Rank: The rank of the individual in the Forbes 2022 Billionaires list.<br>
+- Rank: The rank of the individual in the Forbes 2022 Billionaires list.<br>
 Name: The full name of the billionaire.<br>
 Net Worth: The net worth of the billionaire in USD (as of the 2022 list).<br>
 Country: The country of citizenship.<br>
