@@ -10,4 +10,4 @@ from folium.plugins import MarkerCluster
 from folium.plugins import HeatMap
 import plotly.express as px
 import json
-from folium.features import GeoJsonPopu
+from folium.features import GeoJsonPopu 
