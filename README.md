@@ -1,6 +1,6 @@
 # Project-3
 
-# Forbes 2022 Billionaries Analysis
+# Forbes 2022 Billionaires Analysis
 
 This project focuses on analyzing the Forbes 2022 Billionaires dataset. The goal is to uncover insights about the world’s wealthiest individuals, explore trends in wealth distribution, analyze demographics, industries, and geographical patterns, and create visualizations that provide an intuitive understanding of the data.
 
@@ -42,20 +42,13 @@ Net Worth Distribution: Study the distribution of net worth across all billionai
 Visualizations: Create visual representations of key insights, including:
 Bar chart and histograms (e.g., country-wise billionaire count, industry representation).
 Box plots (e.g., distribution of net worth by industry).
-Word cloud (e.g., Source of wealth).
+A word cloud (e.g., Source of wealth).
 Heatmaps (e.g., country-wise billionaire density).
 
-**Key Insights (Preliminary Results)**
-
-Wealth Distribution: The wealthiest individuals are concentrated in a few industries, with technology and finance leading the pack.
-Country Representation: The United States, China, and India host the highest number of billionaires, while emerging economies show rapid growth.
-Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.
-Self-Made vs. Inherited: A significant percentage of billionaires on the list have self-made fortunes, particularly in tech and retail industries.
-=======
 - Data Cleaning: Handle missing or inconsistent data, format data types, and prepare the dataset for analysis.<br>
 - Exploratory Data Analysis (EDA): Perform initial exploration of the dataset, including basic statistics and distribution analysis.<br>
 - Industry Analysis: Analyze the representation of different industries in the billionaire list.<br>
-- Country Analysis: Explore how billionaires are distributed across different countries and regions.<br>
+- Country Analysis: Explore how billionaires are distributed across countries and regions.<br>
 - Gender and Age Analysis: Investigate the age distribution, gender balance, and how these factors relate to net worth.<br>
 - Net Worth Distribution: Study the distribution of net worth across all billionaires and identify any wealth concentration trends.<br>
 - Visualizations: Create visual representations of key insights, including:<br>
@@ -69,7 +62,7 @@ Self-Made vs. Inherited: A significant percentage of billionaires on the list ha
 - Wealth Distribution: The wealthiest individuals are concentrated in a few industries, with technology and finance leading the pack.<br>
 - Country Representation: The United States, China, and India host the highest number of billionaires, while emerging economies show rapid growth.<br>
 - Age and Gender: Billionaires are predominantly male, with no number of female billionaires, and most of them are aged between 50 and 70.<br>
-- Self-Made vs. Inherited: A significant percentage of billionaires on the list have self-made fortunes, particularly in tech and retail industries.<br>
+- Self-Made vs. Inherited: Many billionaires on the list have self-made fortunes, particularly in the tech and retail industries.<br>
 
 **Team Members**
 
