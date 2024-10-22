@@ -83,7 +83,7 @@ Visualizations: <br>
 `cd project-name`
   3. Install dependencies:</li>
 `import os`
-`import numpy as np`[![NumPy](assets/numpy-logo.png)](https://numpy.org)
+`import numpy as np`
 `import matplotlib.pyplot as plt`
 `import seaborn as sns`
 `from wordcloud import WordCloud, STOPWORDS`
@@ -95,7 +95,6 @@ Visualizations: <br>
 `import plotly.express as px`
 `import json`
 `from folium.features import GeoJsonPopu`
-![Pandas](assets/pandas-logo.png)
 
 **Usage**
 
