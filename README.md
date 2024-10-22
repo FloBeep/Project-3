@@ -78,8 +78,6 @@ Visualizations: <br>
 
 **Getting Started**
 
-<<<<<<< HEAD
-=======
 1. Clone the repository:</li>
 `git clone https://github.com/github_username/repo_name.git`
   2. Navigate to the project directory:</li>
