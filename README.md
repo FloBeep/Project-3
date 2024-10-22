@@ -76,13 +76,10 @@ Visualizations: <br>
 </ul>
 
 **Static visualizations**
-
 Industries Vs Net Worth
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/IndustriesvsNetworth.jpeg?raw=true)
-
 Age Distribution of Billionaires
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/agedistribution.jpeg?raw=true)
-
 Industry WorldCloud
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/wordcloud.jpeg?raw=true)
 
