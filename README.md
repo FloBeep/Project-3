@@ -78,7 +78,7 @@ Visualizations: <br>
 **Getting Started**
 
 1. Clone the repository:</li>
-git clone https://github.com/github_username/repo_name.git
+`git clone https://github.com/github_username/repo_name.git`
   2. Navigate to the project directory:</li>
 cd project-name<br>
   3. Install dependencies:
@@ -96,6 +96,8 @@ import plotly.express as px
 import json
 from folium.features import GeoJsonPopu
 </ul>
+
+**Usage**
 
 
 **Static visualizations**
