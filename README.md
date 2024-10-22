@@ -82,7 +82,6 @@ Age Distribution of Billionaires
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/agedistribution.jpeg?raw=true)
 Industry WorldCloud
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/wordcloud.jpeg?raw=true)
-
 **Interactive visualizations**
 
 * <a href="https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/agevsworth_billionaires_map.html" title="Age Vs Net Worth per Industry">Age Vs Net Worth per Industry</a>
