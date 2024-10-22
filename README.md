@@ -32,18 +32,20 @@ Dataset Structure<br>
 
 **Project Goals**
 
-<<<<<<< HEAD
-Data Cleaning: Handle missing or inconsistent data, format data types, and prepare the dataset for analysis.
-Exploratory Data Analysis (EDA): Perform initial exploration of the dataset, including basic statistics and distribution analysis.
-Industry Analysis: Analyze the representation of different industries in the billionaire list.
-Country Analysis: Explore how billionaires are distributed across different countries and regions.
-Gender and Age Analysis: Investigate the age distribution, gender balance, and how these factors relate to net worth.
-Net Worth Distribution: Study the distribution of net worth across all billionaires and identify any wealth concentration trends.
-Visualizations: Create visual representations of key insights, including:
-Bar chart and histograms (e.g., country-wise billionaire count, industry representation).
-Box plots (e.g., distribution of net worth by industry).
-A word cloud (e.g., Source of wealth).
-Heatmaps (e.g., country-wise billionaire density).
+Data Cleaning:
+- Handle missing or inconsistent data, format data types, and prepare the dataset for analysis.<br>
+- Exploratory Data Analysis (EDA): Perform initial exploration of the dataset, including basic statistics and distribution analysis.<br>
+- Industry Analysis: Analyze the representation of different industries in the billionaire list.<br>
+- Country Analysis: Explore how billionaires are distributed across different countries and regions.<br>
+- Gender and Age Analysis: Investigate the age distribution, gender balance, and how these factors relate to net worth.<br>
+- Net Worth Distribution: Study the distribution of net worth across all billionaires and identify any wealth concentration trends.<br>
+
+Visualizations: <br>
+- Create visual representations of key insights, including:<br>
+  - Bar chart and histograms (e.g., country-wise billionaire count, industry representation).<br>
+  - Box plots (e.g., distribution of net worth by industry).<br>
+  - A word cloud (e.g., Source of wealth).<br>
+  - Heatmaps (e.g., country-wise billionaire density).<br>
 
 - Data Cleaning: Handle missing or inconsistent data, format data types, and prepare the dataset for analysis.<br>
 - Exploratory Data Analysis (EDA): Perform initial exploration of the dataset, including basic statistics and distribution analysis.<br>
