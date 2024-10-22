@@ -95,6 +95,7 @@ Visualizations: <br>
 `import plotly.express as px`
 `import json`
 `from folium.features import GeoJsonPopu`
+![Pandas](assets/pandas-logo.png)
 
 **Usage**
 
