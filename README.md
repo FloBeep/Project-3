@@ -77,9 +77,9 @@ Visualizations: <br>
 
 **Interactive visualizations**
 
-* <a href="[about.html][(https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/agevsworth_billionaires_map.html)]" title="Age Vs Net Worth per Industry">About Me</a>
-* <a href="[about.html](https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/heatmap_billionaires_map.html)" title="Heat Map">About Me</a>
-* <a href="[about.html](https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/mapwithtable.html)" title="Billionaires per Country">About Me</a>
+* <a href="[https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/agevsworth_billionaires_map.html]" title="Age Vs Net Worth per Industry">About Me</a>
+* <a href="[https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/heatmap_billionaires_map.html]" title="Heat Map">About Me</a>
+* <a href="[https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/mapwithtable.html]" title="Billionaires per Country">About Me</a>
 
 **Limitations of dataset**
 
