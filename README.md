@@ -76,26 +76,25 @@ Visualizations: <br>
 </ul>
 
 **Getting Started**
-<ul>
- ## Installation
+
 1. Clone the repository:</li>
-git clone https://github.com/username/project-name.git<br>
+git clone https://github.com/github_username/repo_name.git
   2. Navigate to the project directory:</li>
 cd project-name<br>
-  3. Install dependencies:</li>
-import os<br>
-import numpy as np<br>
-import matplotlib.pyplot as plt<br>
-import seaborn as sns<br>
-from wordcloud import WordCloud, STOPWORDS<br>
-import pandas as pd<br>
-from pathlib import Path<br>
-import folium<br>
-from folium.plugins import MarkerCluster<br>
-from folium.plugins import HeatMap<br>
-import plotly.express as px<br>
-import json<br>
-from folium.features import GeoJsonPopu<br>
+  3. Install dependencies:
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from wordcloud import WordCloud, STOPWORDS
+import pandas as pd
+from pathlib import Path
+import folium
+from folium.plugins import MarkerCluster
+from folium.plugins import HeatMap
+import plotly.express as px
+import json
+from folium.features import GeoJsonPopu
 </ul>
 
 
