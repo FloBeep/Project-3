@@ -78,6 +78,33 @@ Visualizations: `<br>`
 
 **Getting Started**
 
+<<<<<<< HEAD
+=======
+1. Clone the repository:</li>
+`git clone https://github.com/github_username/repo_name.git`
+  2. Navigate to the project directory:</li>
+`cd project-name`
+  3. Install dependencies:</li>
+`import os`
+`import numpy as np`
+`import matplotlib.pyplot as plt`
+`import seaborn as sns`
+`from wordcloud import WordCloud, STOPWORDS`
+`import pandas as pd`
+`from pathlib import Path`
+`import folium`
+`from folium.plugins import MarkerCluster`
+`from folium.plugins import HeatMap`
+`import plotly.express as px`
+`import json`
+`from folium.features import GeoJsonPopu`
+
+**Usage**
+
+To start the application, run:
+`htmlfiles` from the browser or read in any `html text viewer`
+
+>>>>>>> 1dd92bb9de0f7aba88d1c7556e4c9a4da60fe977
 
 **Static visualizations**
 Industries Vs Net Worth
