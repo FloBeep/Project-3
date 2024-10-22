@@ -75,8 +75,29 @@ Visualizations: <br>
   <li>Nitin Arora</li>
 </ul>
 
-**Usage**
-display: grid;
+**Getting Started**
+<ul>
+ ## Installation
+1. Clone the repository:</li>
+git clone https://github.com/username/project-name.git<br>
+  2. Navigate to the project directory:</li>
+cd project-name<br>
+  3. Install dependencies:</li>
+import os<br>
+import numpy as np<br>
+import matplotlib.pyplot as plt<br>
+import seaborn as sns<br>
+from wordcloud import WordCloud, STOPWORDS<br>
+import pandas as pd<br>
+from pathlib import Path<br>
+import folium<br>
+from folium.plugins import MarkerCluster<br>
+from folium.plugins import HeatMap<br>
+import plotly.express as px<br>
+import json<br>
+from folium.features import GeoJsonPopu<br>
+</ul>
+
 
 **Static visualizations**
 Industries Vs Net Worth
