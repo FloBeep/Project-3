@@ -81,7 +81,7 @@ Visualizations: <br>
 `git clone https://github.com/github_username/repo_name.git`
   2. Navigate to the project directory:</li>
 `cd project-name`
-  3. Install dependencies:
+  3. Install dependencies:</li>
 `import os`
 `import numpy as np`
 `import matplotlib.pyplot as plt`
@@ -95,6 +95,11 @@ Visualizations: <br>
 `import plotly.express as px`
 `import json`
 `from folium.features import GeoJsonPopu`
+
+**Usage**
+
+To start the application, run:
+`htmlfiles` from the browser or read in any `html text viewer`
 
 
 **Static visualizations**
