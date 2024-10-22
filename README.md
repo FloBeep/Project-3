@@ -88,6 +88,10 @@ Industry WorldCloud
 * <a href="https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/heatmap_billionaires_map.html" title="Heat Map">Heat Map</a>
 * <a href="https://flobeep.github.io/Project-3-Forbes-Billionaires/Html_Files/mapwithtable.html" title="Billionaires per Country">Billionaires per Country</a>
 
+**Ethical Considerations**
+
+The dataset was sourced from publicly available and reputable platforms (Kaggle and Forbes) ensuring that the data was both credible and obtained through transparent means. The visualizations were crafted to present an unbiased representation of the data, avoiding any manipulations that could lead to misinterpretation or reinforce stereotypes. 
+
 **Limitations of dataset**
 
 * Difficulty Valuing Assets: The list rely on publicly available information to estimate net worth.<br>
