@@ -83,7 +83,7 @@ Visualizations: <br>
 `cd project-name`
   3. Install dependencies:</li>
 `import os`
-`import numpy as np`
+`import numpy as np`[![NumPy](assets/numpy-logo.png)](https://numpy.org)
 `import matplotlib.pyplot as plt`
 `import seaborn as sns`
 `from wordcloud import WordCloud, STOPWORDS`
