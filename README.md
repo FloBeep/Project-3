@@ -72,7 +72,6 @@ Heatmaps (e.g., country-wise billionaire density).
   <li>Deji Alabi</li>
   <li>Nitin Arora</li>
 </ul>
->>>>>>> 6eecd0f88883d9efec77c4d2adf000a58cf933b3
 
 **Limitations of dataset**
 
