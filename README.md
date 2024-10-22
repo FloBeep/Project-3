@@ -75,6 +75,9 @@ Visualizations: <br>
   <li>Nitin Arora</li>
 </ul>
 
+**Usage**
+display: grid;
+
 **Static visualizations**
 Industries Vs Net Worth
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/IndustriesvsNetworth.jpeg?raw=true)
