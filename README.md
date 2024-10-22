@@ -73,3 +73,14 @@ Heatmaps (e.g., country-wise billionaire density).
   <li>Nitin Arora</li>
 </ul>
 >>>>>>> 6eecd0f88883d9efec77c4d2adf000a58cf933b3
+
+**Limitations of dataset**
+
+* Difficulty Valuing Assets: The list rely on publicly available information to estimate net worth.<br>
+* Privacy: Some wealthy individuals go to great lengths to keep their finances under wraps.<br>
+* Source of Wealth: Royals and dictators whose wealth is tied to their positions of power generally aren't included. <br>
+* Family vs. Individual: These lists typically focus on individual wealth.<br>
+
+**For further analysis...**
+Add additional data, including but not limited to gender, ethnicity information or indicatation if the billionaires were self-made or had an inheritance.
+
