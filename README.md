@@ -104,8 +104,6 @@ Visualizations: `<br>`
 To start the application, run:
 `htmlfiles` from the browser or read in any `html text viewer`
 
->>>>>>> 1dd92bb9de0f7aba88d1c7556e4c9a4da60fe977
-
 **Static visualizations**
 Industries Vs Net Worth
 ![alt text](https://raw.githubusercontent.com/FloBeep/Project-3-Forbes-Billionaires/refs/heads/main/Images/IndustriesvsNetworth.jpeg?raw=true)
